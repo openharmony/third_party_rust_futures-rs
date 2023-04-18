@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "futures",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.3.24",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/rust-lang/futures-rs",
+    "Description": "An implementation of futures and streams featuring zero allocations, composability, and iterator-like interfaces."
+  }
+]
